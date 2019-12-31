@@ -1,0 +1,1 @@
+export const SET_MACHINE_LIST = "SET_MACHINE_LIST";
